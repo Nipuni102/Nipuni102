@@ -35,37 +35,37 @@
 <h3 align="center">My profile stats here:</h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-<a href="https://github.com/Nipuni102"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipuni102&theme=dracula&hide_border=true"  width="520" alt="Nipuni102"/></a>
+<a href="https://github.com/Nipuni102"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipuni102&theme=algolia&hide_border=true"  width="520" alt="Nipuni102"/></a>
   </div>
 
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuni102&langs_count=8&theme=dracula" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuni102&langs_count=8&theme=algolia" alt="Language stats.">
 </div>
 
 <div align="center">
   <a href="https://github.com/Nipuni102">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nipuni102&theme=dracula&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nipuni102&theme=algolia&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
 
 <div align="center">
   <a href="https://github.com/Nipuni102">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nipuni102&theme=dracula" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nipuni102&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nipuni102&theme=algolia" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nipuni102&theme=algolia" />
   </a>
 </div><br>
 <div align="center">
-<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nipuni102&show_icons=true&locale=en&theme=dracula" alt="Nipuni102" /></p>
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nipuni102&show_icons=true&locale=en&theme=algolia" alt="Nipuni102" /></p>
 </div>
 <div align="center">
 <a href="https://github.com/Nipuni102">
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nipuni102&theme=dracula&hide_border=true&layout=compact&langs_count=10" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nipuni102&theme=algolia&hide_border=true&layout=compact&langs_count=10" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nipuni102&theme=dracula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nipuni102&theme=algolia" height="180em" />
 </div>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
