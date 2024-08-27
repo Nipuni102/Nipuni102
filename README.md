@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
-
-- 🔭 I’m currently working on my side projects
+//about 
+- 🔭 I’m currently working on my side projects 
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on your open source projects
 - 📫 How to reach me: Contact part
