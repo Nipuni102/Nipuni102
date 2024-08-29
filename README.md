@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on your open source projects
 - 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her nipu
   
 <br><br>
 
